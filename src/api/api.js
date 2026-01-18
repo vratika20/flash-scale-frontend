@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000", // backend port
+  baseURL: "https://flash-scale-backend.onrender.com", // backend port
 });
 
 export default api;
