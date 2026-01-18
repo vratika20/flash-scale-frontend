@@ -1,0 +1,24 @@
+.admin-container {
+  padding: 30px;
+}
+
+.add-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.add-form input {
+  padding: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
